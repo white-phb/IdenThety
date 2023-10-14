@@ -1,0 +1,11 @@
+{
+  "name": "peermanagement",
+  "version": "1.0.0",
+  "description": "to manage peer request",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
